@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ceg:home|Door43 (ceg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ceg|d43-ceg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ceg/archive/master.zip|d43-ceg.zip]]
+
+**Recent Changes**
+{{changes>ns = ceg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ceg|Ethnologue data]]
+
